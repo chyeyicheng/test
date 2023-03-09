@@ -1,0 +1,27 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+	font-family: "Roboto-Regular";
+	src: url("../fonts/Roboto-Regular.ttf");
+}
+
+@font-face {
+	font-family: "Roboto-Medium";
+	src: url("../fonts/Roboto-Medium.ttf");
+}
+
+@font-face {
+	font-family: "Roboto-Bold";
+	src: url("../fonts/Roboto-Bold.ttf");
+}
+
+@font-face {
+	font-family: "Roboto-Italic";
+	src: url("../fonts/Roboto-Italic.ttf");
+}
+
+body {
+	background-color: #e1e7f1;
+}
